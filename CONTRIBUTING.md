@@ -1,2 +1,7 @@
-# Selamat Berkontribusi
-Hai! Ini adalah repositori untuk menampung projek sederhana teman-teman untuk dilihat orang lain/sesama programmer!
+# Dapat Gratis Bagi Gratis
+Ayo kontribusi sumber belajar pemrograman gratis.
+
+## Bahan Kontribusi
+- Link Tutorial (Youtube, Blog, Kursus Onlinne)
+- Repo Projek (Open Source)
+- Ebook Gratis (Legal)
