@@ -1,3 +1,4 @@
-# hacktoberfest2021indonesia
-Repo untuk kontribusi apapun di Hacktoberfest 2021.
+# Belajar Bersama
+Repo untuk kontribusi apapun berupa materi pembelajaran (Link, Ebook) serta projek open-source sederhana.
+
 Mari berbagi 🌵
